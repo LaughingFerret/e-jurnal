@@ -5,13 +5,13 @@
     <hr>
 
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" required>
+    <input type="text" placeholder="Введите Email" name="email" required>
 
     <label for="psw"><b>Пароль</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Введите пароль" name="psw" required>
 
     <label for="psw-repeat"><b>Подтвердите пароль</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+    <input type="password" placeholder="Подтвердите пароль" name="psw-repeat" required>
     <hr>
     
     <button type="submit" class="registerbtn">Зарегистрироваться</button>
