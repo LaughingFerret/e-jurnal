@@ -1,1 +1,1 @@
-# sh42.github.io
+# e_jurnal
