@@ -59,7 +59,7 @@ hr {
 .registerbtn {
     background-color: #4CAF50;
     color: white;
-    padding: 16px 20px;
+    padding: 12px 20px;
     margin: 8px 0;
     border: none;
     cursor: pointer;
