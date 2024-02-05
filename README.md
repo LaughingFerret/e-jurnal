@@ -25,10 +25,10 @@
     <div>
       <label for="country">Страна</label>
       <select name="country">
-        <option>Выберите страну проживания</option>
-        <option value="Россия">Россия</option> 
-        <option value="Украина">Украина</option> 
-        <option value="Беларусь">Беларусь</option> 
+        <option>Выберите класс</option>
+        <option value="1_1">1а</option> 
+        <option value="1_2">1б</option> 
+        <option value="1_3">1в</option> 
       </select> 
       <div class="select-arrow"></div> 
     </div> 
