@@ -24,7 +24,7 @@
   <style>
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #1f75fe;
+    background-color: #edf3fc;
 }
 
 * {
